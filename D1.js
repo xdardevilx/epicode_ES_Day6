@@ -11,7 +11,8 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 /* i datatype sono quei dati che inseriamo all'interno di una variabile. i principali dati sono
- stringa, numeri, valorei booleani (cioè vero o falso). mettiamo che tu hai una grande scatola vuota (chiamata variabile) al quale hai dato il nome di pippo e mettiamo 
+ stringa, numeri, valori booleani (cioè vero o falso).
+ mettiamo che tu hai una grande scatola vuota (chiamata variabile) al quale hai dato il nome di pippo e mettiamo 
  che all'interno di quella scatola tu voglia inserire degli oggetti differenti, appunto dei dati, in base ai dati che inserisci uscirà sullo schermo una risposta diversa,
  ad esempio dentro la scatola pippo inseriamo delle stringhe di testo. Quindi quando andremo ad aprire la scatola "pippo" all'interno troveremo soltanto ciò che ci abbiamo messo dentro
 */

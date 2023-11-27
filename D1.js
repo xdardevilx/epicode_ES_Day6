@@ -45,6 +45,8 @@ let x = 12;
 */
 
 myName = "Galletti";
+console.log("Questo è il cognome:", myName);
+
 /*const test = "Il mio nome è";
 test = "Non ricordo il mio nome";*/
 
@@ -55,7 +57,7 @@ test = "Non ricordo il mio nome";*/
 */
 
 console.log("La sottrazione tra la variabile x e il numero 4 è:", x - 4);
-// non ho dichiarato nessuna variabile poichè non mi è stato richiesto ma qualora volessi farlo potrei dichiarare una variabile dargli il valore 4 ed eseguire la stessa operazione
+// non ho dichiarato nessuna variabile poichè non mi è stato richiesto ma qualora volessi farlo potrei dichiarare una variabile, dargli il valore 4 ed eseguire la stessa operazione
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -64,12 +66,16 @@ console.log("La sottrazione tra la variabile x e il numero 4 è:", x - 4);
 */
 let name1 = "john";
 let name2 = "John";
-console.log("adesso verifico l'uguaglianza fra i due nomi:", name1 === name2);
+console.log(
+  "adesso verifico l'uguaglianza fra i due nomi john e John :",
+  name1 === name2
+);
+
 let lowerCaseName2 = name2.toLowerCase();
 console.log(
   "dopo aver effettuato la modifica sulla stringa il risultato della comparazione apparirà così:",
   name1 === lowerCaseName2
 );
 // console.log('Questa è la visualizzaione del nome prima della modifica:', name2)
-// console.log('Questa è la visualizzaione del nome prima della modifica:', lowerCase);
+// console.log('Questa è la visualizzaione del nome prima della modifica:', lowerCaseName2);
 /* SCRIVI QUI LA TUA RISPOSTA */
